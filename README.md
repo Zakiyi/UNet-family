@@ -37,7 +37,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * Attention U-Net: Learning Where to Look for the Pancreas [[paper](https://arxiv.org/pdf/1804.03999.pdf)]
   * Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation [[paper](https://arxiv.org/pdf/1802.06955.pdf)]
   * Concurrent Spatial and Channel ‘Squeeze & Excitation’ in Fully Convolutional Networks [[paper]](https://arxiv.org/pdf/1803.02579.pdf) 
-      &nbsp&nbsp&nbsp&nbsp ![scse](https://github.com/Zakiyi/UNet-family/blob/master/pictures/SCSE.png)
+      &nbsp;&nbsp;&nbsp;&nbsp; ![scse](https://github.com/Zakiyi/UNet-family/blob/master/pictures/SCSE.png)
   * A Probabilistic U-Net for Segmentation of Ambiguous Images (NIPS) [[paper](https://arxiv.org/pdf/1806.05034.pdf)] [[tensorflow](https://github.com/SimonKohl/probabilistic_unet)] 
 ![img](https://github.com/Zakiyi/UNet-family/blob/master/pictures/propability%20unet.png)
   * AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy [[paper](https://arxiv.org/pdf/1808.05238.pdf)]
